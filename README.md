@@ -20,7 +20,11 @@ Requirements
   
 Files:
 The source video in .mp4 can be obtained from [here](https://drive.google.com/drive/folders/1X444iFtM6SDBYem50u-ZzUZTGaf84MdR?usp=drive_link).
-The scripts can be downloaded from the github repository.
+The scripts can be downloaded from the GitHub repository.
+* create_gif.py : script to create the gif from a folder containing the images.
+* extract.py : script to extract the frames from the video.
+* smaller_image.py: script that lowers the resolution of the images for testing.
+* run_process.sh: bash scripts that provide the necessary parameters and run the previous codes. In addition, it provides the parameters to the ESRGAN/test.py file by applying the super-resolution technique. The ESRGAN model (weights and biases) are available [here](https://huggingface.co/databuzzword/esrgan/resolve/main/RRDB_ESRGAN_x4.pth)
 
 ## Project Overview
 
