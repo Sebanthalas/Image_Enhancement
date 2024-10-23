@@ -1,3 +1,10 @@
+"""
+Example code for testing.
+Author: Sebastian Moraga Scheuermann
+Date: October 22, 2024
+Description:   script to extract the frames from the video.
+"""
+
 #Make sure to adjust the frame extraction rate if needed (e.g., extract every nth frame).
 #This script saves frames sequentially in extracted_frames/ as frame_0000.jpg, frame_0001.jpg, etc.
 import cv2

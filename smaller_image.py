@@ -1,3 +1,10 @@
+"""
+Example code for testing.
+Author: Sebastian Moraga Scheuermann
+Date: October 22, 2024.
+Description:   script that lowers the resolution of the images for testing.
+"""
+
 import cv2
 import glob
 

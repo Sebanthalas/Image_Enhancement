@@ -1,3 +1,10 @@
+"""
+Example code for testing.
+Author: Sebastian Moraga Scheuermann
+Date: October 22, 2024
+Description:   script to create the gif from a folder containing the images.
+"""
+
 from PIL import Image
 import glob
 import argparse
