@@ -19,7 +19,7 @@ Requirements
 * ESRGAN model files
   
 Files:
-The source video in .mp4 can be obtained from [here](https://drive.google.com/drive/folders/1X444iFtM6SDBYem50u-ZzUZTGaf84MdR?usp=drive_link).
+The source video in .mp4 can be obtained from [here](https://drive.google.com/drive/folders/1X444iFtM6SDBYem50u-ZzUZTGaf84MdR?usp=sharing).
 The scripts can be downloaded from the GitHub repository.
 * create_gif.py : script to create the gif from a folder containing the images.
 * extract.py : script to extract the frames from the video.
@@ -32,7 +32,7 @@ This project demonstrates how to upscale low-resolution video frames using [ESRG
 
 ![frame_0001](https://github.com/user-attachments/assets/253ceaaf-c232-434d-a615-1600fc7d46bf)![frame_0001_rlt](https://github.com/user-attachments/assets/75db13e4-1bd7-4b75-af8f-d552e10a6ea9) 
 
-Link to the comparison gif (low and high quality): [GIF](https://drive.google.com/drive/folders/1X444iFtM6SDBYem50u-ZzUZTGaf84MdR?usp=drive_link)
+Link to the comparison gif (low and high quality): [GIF](https://drive.google.com/drive/folders/1X444iFtM6SDBYem50u-ZzUZTGaf84MdR?usp=sharing)
 
 ## Step by Step
  I can provide a step-by-step guide on how to run the code and test it upon the company's request.
